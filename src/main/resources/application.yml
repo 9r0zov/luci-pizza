@@ -1,0 +1,8 @@
+spring:
+  main:
+    banner-mode: off
+  data:
+    mongodb:
+      uri: mongodb://localhost/luci_pizza
+server:
+  port: 8080
