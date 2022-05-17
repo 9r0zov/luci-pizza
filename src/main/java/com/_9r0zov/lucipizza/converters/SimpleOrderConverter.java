@@ -1,8 +1,6 @@
 package com._9r0zov.lucipizza.converters;
 
 import com._9r0zov.lucipizza.model.Order;
-import com._9r0zov.lucipizza.model.dto.Option;
-import com._9r0zov.lucipizza.model.dto.PriceOption;
 import com._9r0zov.lucipizza.model.dto.SimpleOrder;
 import com._9r0zov.lucipizza.model.dto.SimplePizza;
 import org.springframework.core.convert.converter.Converter;

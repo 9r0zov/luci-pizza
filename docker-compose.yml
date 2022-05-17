@@ -9,7 +9,7 @@ services:
   springboot:
     build: .
     container_name: luci-pizza-springboot
-    image: luci-pizza
+    image: luci-pizza:1.0
     restart: always
     ports:
       - 80:80
